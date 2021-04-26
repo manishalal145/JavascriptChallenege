@@ -19,8 +19,8 @@ Level 1 - Automatic Table and Data Search
 
 Level 2 - Multiple Search Categories       
 Using multiple input tags, wrote JavaScript code so that user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:    
-       1	date/time      
-       2	city    
-       3	state   
-       4	country        
-       5	shape   
+       -	date/time      
+       -	city    
+       -	state   
+       -	country        
+       -	shape   
