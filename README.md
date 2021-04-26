@@ -1,6 +1,3 @@
-                        **JavaScript and DOM Manipulation**
-
-
 Folders:
 1.	UFO-level-1 folder includes:
   -	index.html     
