@@ -2,12 +2,12 @@ JavaScript and DOM Manipulation
 
 Folders:
 1.	UFO-level-1 folder includes:
-    -	index.html     
-    -	static/js/app.js
+  -	index.html     
+  -	static/js/app.js
 
 2.	UFO-level-2 folder includes:        
-    -	index.html     
-    -	static/js/app.js      
+  -	index.html     
+  -	static/js/app.js      
     
 This assignment was to write code that will create a table dynamically based upon the dataset provided (about Alien UFO sightings). The table should allow users to filter the table data for specific values.
 
