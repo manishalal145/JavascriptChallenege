@@ -12,7 +12,7 @@ Folders:
     
 This assignment was to write code that will create a table dynamically based upon the dataset provided (about Alien UFO sightings). The table should allow users to filter the table data for specific values.
 
-Requirements
+
 Level 1 - Automatic Table and Data Search  
      -	Created a basic HTML web page or use the index.html file provided.     
      -	Using the UFO dataset provided in the form of an array of JavaScript objects, written the code that appends a table to our web page and then adds new rows           of data for each UFO sighting.     
