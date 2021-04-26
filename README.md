@@ -18,10 +18,10 @@ Level 1 - Automatic Table and Data Search
 •	Used a date form in our HTML document and written the JavaScript code that will listen for events and search through the date/time column to find rows that match user input.   
 
 Level 2 - Multiple Search Categories       
-•	Using multiple input tags, wrote JavaScript code so that user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:    
-o	date/time      
-o	city    
-o	state   
-o	country        
-o	shape   
+Using multiple input tags, wrote JavaScript code so that user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:    
+       o	date/time      
+       o	city    
+       o	state   
+       o	country        
+       o	shape   
 
