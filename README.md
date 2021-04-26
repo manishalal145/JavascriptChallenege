@@ -14,7 +14,7 @@ This assignment was to write code that will create a table dynamically based upo
 
 
 Level 1 - Automatic Table and Data Search  
-     -	Created a basic HTML web page or use the index.html file provided.     
+     -	Created a basic HTML web page.     
      -	Using the UFO dataset provided in the form of an array of JavaScript objects, written the code that appends a table to our web page and then adds new rows           of data for each UFO sighting.     
      -	Used a date form in our HTML document and written the JavaScript code that will listen for events and search through the date/time column to find rows that         match user input.   
 
