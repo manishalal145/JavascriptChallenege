@@ -22,3 +22,4 @@ Using multiple input tags, wrote JavaScript code so that user can set multiple f
        -	state   
        -	country        
        -	shape   
+![webpage](page.png)
